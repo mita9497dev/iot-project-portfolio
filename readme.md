@@ -10,7 +10,7 @@ In this project, we established a self-hosted ThingsBoard instance (Community Ed
 
 
 ![P2](project_1_1.gif)
-![[project_1_2.gif]]
+![P3](project_1_2.gif)
 
 **Project 2** (project_2.gif)
 
@@ -19,6 +19,6 @@ For this project, we also deployed a self-hosted ThingsBoard server on a VPS. Ho
 *   **MQTT Broker Role:** ThingsBoard acts as an MQTT broker, managing connections from IoT devices.
 *   **Data Storage:** Device data is stored in a separate database, not within the ThingsBoard platform.
 *   **API for Applications:** Our Cloud Server provides a dedicated API, allowing mobile and web applications to interact with connected devices. This centralized approach grants greater flexibility in terms of data handling and enables us to provide tailored application experiences.
-![P3](project_2.png)
+![P4](project_2.png)
 
-![P3](project_2.gif)
+![P5](project_2.gif)
